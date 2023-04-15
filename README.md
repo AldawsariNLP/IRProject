@@ -1,5 +1,5 @@
 ## Information Retrieval Project
-Information retrieval system over a small set of crawled web pages. (DePaul CSC-575 course project)
+Information retrieval system over a small set of crawled web pages.
 
 **Abstract**
 
